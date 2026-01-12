@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002b31c6cdf47f5b5ec0094810ea30d" nativeplatform="Steam" nativeuserid="76561198928854218" playername="medved" playgroup="Standalone" lastlogin="2026-01-12 14:33:45" position="851,57,961">
+    <bedroll pos="848,57,959" />
+  </player>
+  <player platform="EOS" userid="0002fbb40e7848c3bd93068e8d6cb86d" nativeplatform="Steam" nativeuserid="76561198312564968" playername="Arturo Martinez" playgroup="Standalone" lastlogin="2026-01-12 14:33:43" position="848,57,963">
+    <bedroll pos="848,57,960" />
+    <questpositions>
+      <position id="743238940" positiondatatype="2" pos="428,61,644" />
+    </questpositions>
+  </player>
+</persistentplayerdata>
